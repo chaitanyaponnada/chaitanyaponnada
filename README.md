@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
 ## 🎓 Education
 
 - **B.Tech. (C.S.E)** at Aditya College of Engineering and Technology (till 4th Semester)  
@@ -206,3 +203,4 @@ Created an innovative expense tracker with barcode scanning and online payment s
 ## 💖 Let's Connect and Build Together!
 
 Feel free to explore my repositories, raise issues, or contribute. I'm always excited to collaborate on cool and meaningful tech projects!
+
