@@ -58,7 +58,6 @@ Created an innovative expense tracker with barcode scanning and online payment s
 ## 🌱 Currently Learning
 
 - Advanced backend development with Node.js & Express
-- Cloud services & deployment (Netlify, Vercel)
 - Penetration testing and ethical hacking basics
 
 ---
